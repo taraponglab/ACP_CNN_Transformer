@@ -107,10 +107,10 @@ def run_stacking(X_train, y_train, X_test, y_test, n_repeats=3):
 
 # ====== Main Execution ======
 def main():
-    X_train = pd.read_csv("3.ACP-DL_acp740_x_train_onehot_esm.csv").values
-    y_train = pd.read_csv("3.ACP-DL_acp740_y_train.csv",index_col=0).values.ravel()
-    X_test = pd.read_csv("3.ACP-DL_acp740_x_test_onehot_esm.csv").values
-    y_test = pd.read_csv("3.ACP-DL_acp740_y_test.csv",index_col=0).values.ravel()
+    X_train = pd.read_csv("ACP_x_train_onehot_esm.csv").values
+    y_train = pd.read_csv("ACP_y_train.csv",index_col=0).values.ravel()
+    X_test = pd.read_csv("ACP_x_test_onehot_esm.csv").values
+    y_test = pd.read_csv("ACP_y_test.csv",index_col=0).values.ravel()
 
     max_length = X_train.shape[1] // 20
 
