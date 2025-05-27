@@ -1,7 +1,7 @@
 # Stacked CNN–Transformer architecture integrated with conjoint sequence representation for anticancer peptide predictive modeling
 ![Abstract Graphic](Figure.ACP_graphic2.png)
 
-#### Huynh Anh Duy*, Tarapong Srisongkram** 
+#### Huynh Anh Duy*, Phurinut Khampasri**, Pimmada Janthanet**, Patlissa Pattiyamongkhonkul**, Tarapong Srisongkram** 
 
 *Graduate School in the Program of Research and Development in Pharmaceuticals, Faculty of Pharmaceutical Sciences, Khon Kaen University, Thailand. 
 
