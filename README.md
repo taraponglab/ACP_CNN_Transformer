@@ -1,4 +1,4 @@
-# Stacked CNN–Transformer architecture integrated with conjoint sequence representation for anticancer peptide classification
+# Stacked CNN–Transformer architecture integrated with conjoint sequence representation for anticancer peptide predictive modeling
 ![Abstract Graphic](Figure.ACP_graphic2.png)
 
 #### Huynh Anh Duy*, Tarapong Srisongkram** 
