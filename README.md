@@ -1,4 +1,4 @@
-# Stacked CNN–Transformer architecture integrated with conjoint sequence representation for anticancer peptide predictive modeling
+# {Accurate prediction of anticancer peptides using a stacking ensemble of convolutional and transformer models with conjoint sequence representation modeling
 ![Abstract Graphic](Figure.ACP_graphic.png)
 
 #### Huynh Anh Duy*, Phurinut Khampasri**, Pimmada Janthanet**, Patlissa Pattiyamongkhonkul**, Tarapong Srisongkram**
