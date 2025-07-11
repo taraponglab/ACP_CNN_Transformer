@@ -1,0 +1,13 @@
+DCTPepD_ID,Active ingredients,Sequence,Predicted probability,Predicted label,Status,Additional data
+DCTPepD0008,Somatostatin,AGCKNFFWKTFTSC,0.9733,ACP,Well-documented,Parent peptide
+DCTPepD0031,ATN-161,PHSCN,0.9333,ACP,Not approved,"Phase I, II"
+DCTPepD0044,SOR-C13,KEFLHPSKVDLPR,0.7664,ACP,Not approved,Phase I
+DCTPepD0060,Vapreotide,FCYWKVCW,0.7764,ACP,Not approved,Phase II
+DCTPepD0064,Corticorelin,SEEPPISLDLTFHLLREVLEMARAEQLAQQAHSNRKLMEII,0.745,ACP,Not approved,Preclinical
+DCTPepD0015,Sovateltide,DEEAVYFAHLDIIW,0.1481,Non-ACP,Not approved,Limited data
+DCTPepD0030,ADH-1,CHAVC,0.2106,Non-ACP,Not approved,"Phase I, II"
+DCTPepD0037,Foxy-5,MDGCEL,0.1045,Non-ACP,Not approved,"Phase I, II"
+DCTPepD0040,Oglufanide,EW,0.1314,Non-ACP,Not approved,Limited data
+DCTPepD0066,Iseganan,RGGLCYCRGRFCVCVGR,0.2609,Non-ACP,Not approved,Discontinued
+DCTPepD0101,Urokinase-Derived Peptide A6,KPSSPPEE,0.1412,Non-ACP,Not approved,"Phase I, II"
+DCTPepD0106,Thymalfasin,SDAAVDTSSEITTKDLKEKKEVVEEAEN,0.285,Non-ACP,Not approved,Phase II
