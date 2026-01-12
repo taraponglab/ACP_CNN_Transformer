@@ -1,4 +1,4 @@
-# Accurate prediction of anticancer peptides using a stacking ensemble of convolutional and transformer models with conjoint sequence representation modeling
+# Accurate prediction of anticancer peptides using a stacking ensemble of convolutional and transformer models with conjoint sequence representations
 ![Abstract Graphic](Figure.ACP_graphic_2.png)
 
 #### Huynh Anh Duy*, Phurinut Khampasri**, Pimmada Janthanet**, Patlissa Pattiyamongkhonkul**, Tarapong Srisongkram**
